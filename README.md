@@ -1,1 +1,1 @@
-# dev-dojo-springboot
+# dev-dojo-spring-boot
