@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: br.com.devdojo.springboot.DevDojoSpringBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 52.551 s <<< FAILURE! - in br.com.devdojo.springboot.DevDojoSpringBootApplicationTests
+contextLoads(br.com.devdojo.springboot.DevDojoSpringBootApplicationTests)  Time elapsed: 0.444 s  <<< ERROR!
+java.lang.NullPointerException
+	at br.com.devdojo.springboot.DevDojoSpringBootApplicationTests.getStudentById(DevDojoSpringBootApplicationTests.java:31)
+	at br.com.devdojo.springboot.DevDojoSpringBootApplicationTests.contextLoads(DevDojoSpringBootApplicationTests.java:25)
+
