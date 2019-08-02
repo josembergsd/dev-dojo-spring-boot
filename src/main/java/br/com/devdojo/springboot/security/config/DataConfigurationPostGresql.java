@@ -20,6 +20,5 @@ public class DataConfigurationPostGresql {
 	      config.setJdbcUrl(dbUrl);
 	      return new HikariDataSource(config);
 	  }
-	}
 	
 }
