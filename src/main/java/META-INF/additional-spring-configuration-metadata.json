@@ -18,5 +18,75 @@
     "name": "spring.datasource.removeAbandoned",
     "type": "java.lang.String",
     "description": "A description for 'spring.datasource.removeAbandoned'"
+  },
+  {
+    "name": "spring.datasource.maxIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxIdle'"
+  },
+  {
+    "name": "spring.datasource.maxIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxIdle'"
+  },
+  {
+    "name": "spring.datasource.maxIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxIdle'"
+  },
+  {
+    "name": "spring.datasource.maxIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxIdle'"
+  },
+  {
+    "name": "spring.datasource.maxActive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxActive'"
+  },
+  {
+    "name": "spring.datasource.maxActive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxActive'"
+  },
+  {
+    "name": "spring.datasource.maxActive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxActive'"
+  },
+  {
+    "name": "spring.datasource.maxActive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxActive'"
+  },
+  {
+    "name": "spring.datasource.maxActive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxActive'"
+  },
+  {
+    "name": "spring.datasource.initialSize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initialSize'"
+  },
+  {
+    "name": "spring.datasource.initialSize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initialSize'"
+  },
+  {
+    "name": "spring.datasource.initialSize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initialSize'"
+  },
+  {
+    "name": "spring.datasource.initialSize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initialSize'"
+  },
+  {
+    "name": "spring.datasource.initialSize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initialSize'"
   }
 ]}
