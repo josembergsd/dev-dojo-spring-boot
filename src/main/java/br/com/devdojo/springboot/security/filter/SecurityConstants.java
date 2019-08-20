@@ -11,12 +11,14 @@ public class SecurityConstants {
 	
 	
 	
+	
 	/*
-	  public static void main(String[] args) {
-	  System.out.println(TimeUnit.MILLISECONDS.convert(1, TimeUnit.DAYS));
-	  System.out.println(new BCryptPasswordEncoder().encode("f@p3p12o1B")); }
+	 * public static void main(String[] args) {
+	 * System.out.println(TimeUnit.MILLISECONDS.convert(1, TimeUnit.DAYS));
+	 * System.out.println(new BCryptPasswordEncoder().encode("f@p3p12o1B")); }
+	 */
 	 
-	  */
+	  
 	 
 	 
 }
