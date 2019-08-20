@@ -29,6 +29,14 @@ public class ProfessorEndPoint {
 		this.repository = repository;
 	}
 
+	@RestController
+	class HelloWord{
+		@GetMapping("/")
+		String hello() {
+			return "Olá professores";
+		}
+	}
+	
 	@RequestMapping(path = "{id}")
 	@ApiOperation (value = "Find professor by his ID", notes = "We have to make  this method better", response = Professor.class)
 	public ResponseEntity<?> getProfessorById(@PathVariable Long id){
@@ -40,4 +48,6 @@ public class ProfessorEndPoint {
 	public ResponseEntity<?> listAll(Pageable pageable){
 		return new ResponseEntity<Iterable<Professor>>(repository.findAll(pageable), HttpStatus.OK);
 	}
+	
+	
 }
